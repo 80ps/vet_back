@@ -19,7 +19,7 @@ app.use(
 );
 
 app.get('/', (req, res) => {
-  res.send('Hello World! and why its not W'); // get 요청 시 Hello World! 출력
+  res.send('Hello World! and why its'); // get 요청 시 Hello World! 출력
 }); // get 요청 시 실행할 함수
 
 app.use(express.json());
