@@ -13,7 +13,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: 'https://happypetfront.spwork.xyz',
+    origin: 'http://34.201.41.240',
     credentials: true,
   })
 );
