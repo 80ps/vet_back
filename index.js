@@ -18,11 +18,6 @@ app.use(
   })
 );
 
-// const corsOptions = {
-//   origin: 'https://happypetfront.spwork.xyz',
-//   credentials: true,
-// };
-
 app.get('/', (req, res) => {
   res.send('Hello World!'); // get 요청 시 Hello World! 출력
 }); // get 요청 시 실행할 함수
