@@ -1,4 +1,4 @@
-# AICC Project 1 | Happypet
+# AICC Project 1 | BACK
 
 웹 페이지 보러 가기: https://happypetvet.spwork.xyz
 이 프로젝트는 React.js와 Node.js를 기반으로 사용하여 개발된 웹 애플리케이션입니다. 프로젝트는 컴포넌트 기반 구조로 다양한 페이지와 기능을 제공하며, 사용자 로그인, 커뮤니티, 예약 등 다양한 기능을 포함하고 있습니다. ( + AWS, pgAdmin)
